@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32643351902",
+    "project_id": "wanderson-firebase",
+    "storage_bucket": "wanderson-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32643351902:android:3ab08d62b1304e93323bcf",
+        "android_client_info": {
+          "package_name": "com.example.aula_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFvVm27mh8t0rySdrgql44oqnMzUlhhcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
